@@ -44,7 +44,7 @@ This project allowed me to:
 
 ## 📈 Project Status
 
-✅ **Completed** - June 2026  
+✅ **Expected Completion** - June 2026  
 🎓 Final Year Dissertation - University of Chester  
 📝 Academic project demonstrating software engineering competency
 
